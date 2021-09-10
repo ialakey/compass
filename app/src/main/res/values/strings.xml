@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="getData">Получить данные</string>
+</resources>
